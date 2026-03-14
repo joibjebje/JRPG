@@ -1,21 +1,20 @@
 # JRPG :: Programming Assignment 4 :: Spring 2026
 ---
+
+## Compilation
 ### Note:
-This assignment is being submitted a day late. I didn't really start it until the evening before submission day. I also liked the assignment description and instead of submitting something half finished, I decided to take a point deduction and submit something I can be just a little bit more proud of :)
-<br>
 I always compiled and ran using WSL, no idea how this compiles/runs on macOS and Windows
 ---
 
-## Compilation
 `$ make`
 
 ### Disclaimer:
 If for some reason you need to recompile after any changes (if needed for some reason)
 `$ make clean && make`
-
+---
 ## Running
 `$ ./game`
-
+---
 ## Features
 - Battle System
 - Hero Selection Screen
@@ -24,7 +23,7 @@ If for some reason you need to recompile after any changes (if needed for some r
 - Impeccable story and lore 
 - Boss fight... kind of
 - Unique abilities
-
+---
 ## How to Play:
 The main main menu is quite simple. You have 2 options (Play, Quit). It doesn't get simpler than that.\
 Then there is the Play menu which contains the Worlds menu and the Heroes menu.\
